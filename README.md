@@ -7,3 +7,5 @@ Este texto está en **negrita**
 
 Hola
 Corrijo tamaños
+
+![](gatitos.jpg)
